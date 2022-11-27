@@ -7,7 +7,6 @@ public class MultiThreadingDemo extends Thread {
 			System.out.println("hii");
 			try {Thread.sleep(1000);} catch (InterruptedException e) {e.printStackTrace();}
 		}
-
 	}
 }
 
@@ -25,7 +24,6 @@ public class MultiThreadingDemo2 extends Thread {
 				e.printStackTrace();
 			}
 		}
-
 	}
 }
 
