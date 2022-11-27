@@ -32,7 +32,6 @@ package MultiThread;
 public class ThreadDriver {
 
 	public static void main(String[] args) {
-
 		MultiThreadingDemo object = new MultiThreadingDemo();
 		MultiThreadingDemo2 object2 = new MultiThreadingDemo2();
 		object.start();
